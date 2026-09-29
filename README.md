@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Henrique Martins
 
-<!--
-**henriqu3mart1ns/henriqu3mart1ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Interesse em Desenvolvimento de Sistemas e Tecnologia
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou
+constantemente buscando aprender e desenvolver novos projetos.
+
+Tenho interesse principalmente em desenvolvimento de sistemas,
+backend, frontend e bancos de dados.
+
+## 💻 Tecnologias
+
+- Java
+- PHP
+- JavaScript
+- Vue.js
+- Laravel
+- Node.js
+- MySQL
+- Git e GitHub
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- APIs
+- Banco de Dados
+- Laravel
+- Vue.js
+- Java
+
+## 📌 Projetos
+
+### Librando
+
+Projeto acadêmico de uma rede social voltada para pessoas surdas.
+
+**Tecnologias:** Laravel, Vue.js, MySQL e JavaScript.
+
+## 📫 Contato
+
+- GitHub: [meu GitHub](https://github.com/SEU-USUARIO)
