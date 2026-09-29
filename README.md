@@ -34,6 +34,8 @@ Atualmente estou buscando aprimorar meus conhecimentos através de estudos e pro
 * Express
 * Vite
 * Axios
+* Flask
+* Pandas
 
 ## 🗄️ Banco de Dados
 
