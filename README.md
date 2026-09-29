@@ -108,6 +108,8 @@ Sistema desenvolvido para realizar o cadastro e gerenciamento de produtos.
 * Exclusão de produtos
 * Controle de quantidade e preço
 
+**Repositório:** [Cadastro de Produtos](https://github.com/henriqu3mart1ns/CRUD-em-Python)
+
 ---
 
 ## 📚 Atualmente Estudando
