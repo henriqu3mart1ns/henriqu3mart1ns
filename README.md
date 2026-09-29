@@ -57,6 +57,35 @@ Atualmente estou buscando aprimorar meus conhecimentos através de estudos e pro
 
 ## 🌟 Projetos em Destaque
 
+
+### 🏦 SICREDI 2025 — Sistema de Gestão Centralizada
+
+Sistema web desenvolvido em **Python e Flask** para centralizar a gestão de ambientes, equipamentos, documentos, reservas, avisos internos e usuários de uma instituição.
+
+**Tecnologias:** Python, Flask, SQLite, SQLAlchemy, Jinja2, HTML, CSS e JavaScript.
+
+**Principais funcionalidades:**
+
+* 🔐 Autenticação de usuários e controle de acesso por perfil
+* 👥 Gerenciamento de gestores e analistas
+* 🏢 Gestão de ambientes e setores
+* 💻 Controle de equipamentos
+* 📅 Reservas de equipamentos com controle de status
+* 📄 Gestão de documentos com aprovação e reprovação
+* 📢 Sistema de avisos internos
+* 📊 Dashboards e visualização de informações gerenciais
+* 🗄️ Persistência e gerenciamento de dados com SQLite
+
+**Destaques técnicos:**
+
+* Organização da aplicação utilizando **Blueprints do Flask**
+* Separação das rotas e módulos por funcionalidade
+* Integração entre aplicação web e banco de dados
+* Controle de permissões de acordo com o perfil do usuário
+
+**Repositório:** [SICREDI 2025](https://github.com/henriqu3mart1ns/SICREDI-PROJETO-ACADEMICO)
+
+
 ### 🖐️ Librando
 
 Projeto acadêmico de uma rede social voltada para **pessoas surdas**, com a proposta de facilitar a comunicação e interação entre usuários.
