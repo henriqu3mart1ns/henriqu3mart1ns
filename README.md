@@ -21,6 +21,7 @@ backend, frontend e bancos de dados.
 - Node.js
 - MySQL
 - Git e GitHub
+- Python
 
 ## 📚 Atualmente estudando
 
