@@ -90,7 +90,7 @@ Sistema desenvolvido para gerenciamento de agendamentos, utilizando uma API REST
 * Controle de datas e horários
 * Integração com banco de dados
 
-**Repositório:** [Librando]((https://github.com/henriqu3mart1ns/api-agendamento))
+**Repositório:** [Agendamentos](https://github.com/henriqu3mart1ns/api-agendamento)
 
 ---
 
