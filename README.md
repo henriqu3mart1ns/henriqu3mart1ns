@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Henrique Martins
+# Olá! 👋 Eu sou Henrique Martins Alves
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho interesse em **Desenvolvimento de Sistemas, Desenvolvimento Web, Backend e Banco de Dados**.
 
