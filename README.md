@@ -138,5 +138,5 @@ Sistema desenvolvido para realizar o cadastro e gerenciamento de produtos.
 
 ## 📫 Contato
 
-* **GitHub:** [Henrique Martins]((https://github.com/henriqu3mart1ns))
+* **GitHub:** [Henrique Martins Alves](https://github.com/henriqu3mart1ns)
 * **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/)
