@@ -72,7 +72,7 @@ Projeto acadêmico de uma rede social voltada para **pessoas surdas**, com a pro
 * Integração entre Front-end e Back-end
 * API para comunicação entre as partes do sistema
 
-**Repositório:** [Librando]([(https://github.com/henriqu3mart1ns/librando00-main))
+**Repositório:** [Librando]([(https://github.com/henriqu3mart1ns/librando00-main)])
 
 ---
 
