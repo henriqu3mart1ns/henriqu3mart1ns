@@ -85,6 +85,7 @@ Sistema web desenvolvido em **Python e Flask** para centralizar a gestão de amb
 
 **Repositório:** [SICREDI 2025](https://github.com/henriqu3mart1ns/SICREDI-PROJETO-ACADEMICO)
 
+---
 
 ### 🖐️ Librando
 
